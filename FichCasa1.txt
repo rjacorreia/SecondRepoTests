@@ -1,3 +1,18 @@
 Foi criado em casa e é para seguir e para alterar apenas em casa.
 
 150122 - V1
+150122 - Teste add do ficheiro. Não adicionado a nada mas quero ver o q resulta
+	Resultado: temos uma versão added, mas não commited e não é a atual. 
+	Pede que adicione a nova versão do ficheiro ou faça checkout para reverter 
+	para a versão anterior. o checkout será testado no FichCasa4.
+	Para já, vou fazer commit para ver se estes comentários aparecem. 
+	Não estou à espera que apareçam.
+150122 - Teste commit do ficheiro. Não apareceu nada online. O meu entendimento é que tenho
+	um repo local que está pronto a ser passado para online. Nenhum destes comentários
+	deve surgir porque não foram adicionados para fazer commit nem fiz commit. 
+	Agora vou meter tudo online. FichCasa5 estará adicionado mas não commited por isso,
+	não espero que apareça.
+
+150122 - V2 - Aconteceu tudo  como esperado! Vou pôr agora esta versão para ver o que acontece
+	ao fich1 online (Se aparecem as duas versões) bem como acrescentar o ficheiro 5 só
+	para registo
