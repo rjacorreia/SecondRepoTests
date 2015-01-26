@@ -1,3 +1,6 @@
 Foi criado em casa e é para seguir e para alterar no trabalho.
 
 150122 - V1
+
+150126 - V2 - Alteração feita no trabalho. Vou gravar este ficheiro e ver o que acontece no status
+	Apareceu a mudança. Vou adicionar para fazer commit e ver em casa. Bem como um novo ficheiro
